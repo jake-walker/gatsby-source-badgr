@@ -6,6 +6,13 @@
   "repository": "https://github.com/jake-walker/gatsby-source-badgr",
   "author": "Jake Walker <hi@jakew.me>",
   "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "badgr",
+    "openbadges"
+  ],
   "scripts": {
     "lint": "eslint ."
   },
